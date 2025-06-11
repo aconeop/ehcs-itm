@@ -1,0 +1,13 @@
+PySide2
+opencv-python
+tensorflow
+numpy==1.26.4
+Jetson.GPIO
+Pillow
+libxcb-xinerama0
+libxkbcommon-x11-0
+libxcb-icccm4
+libxcb-image0
+libxcb-keysyms1
+libxcb-render-util0
+
