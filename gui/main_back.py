@@ -8,7 +8,7 @@ from PySide2.QtWidgets import (
 )
 from PySide2.QtGui import QPixmap
 from PySide2.QtCore import Qt
-import motor_control
+from motores import motor_control
 
 class MainWindow(QMainWindow):
     def __init__(self):
